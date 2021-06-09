@@ -6,3 +6,6 @@ You can find my slides [here](https://example.com) and my notes here.
 
 ## Resources about Kanban
 This is a non-complete set of links and materials that I think may be useful to learn more about Kanban, boards, and delivering value at a *sustainable* pace.
+
+### Get started
+- [Make Work Visible](https://itrevolution.com/book/making-work-visible/) by Dominica DeGrandis.
