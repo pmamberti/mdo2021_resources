@@ -12,7 +12,7 @@ This is a non-complete set of links and materials that I think may be useful to 
 - [Thinking in Systems - A primer](https://www.goodreads.com/book/show/3828902-thinking-in-systems) by Donella Meadows. An intro to systems thinking, that will help you understand how feedback loops influence systems. Simple and concise, full of good examples.
 
 ### On work limits
-- [Why limiting work-in-progress works](https://lethain.com/limiting-wip/) by Will Larson ([@lethain](https://twitter.com/lethain)
+- [Why limiting work-in-progress works](https://lethain.com/limiting-wip/) by Will Larson ([@lethain](https://twitter.com/lethain))
 - [Putting the 'flow' back in workflow with WIP limits](https://www.atlassian.com/agile/kanban/wip-limits) from Atlassian themselves
 
 
